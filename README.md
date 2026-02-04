@@ -1,2 +1,2 @@
-# Turan.github.io
+# turan.github.io
 TURAN - Kişisel Arama Motoru
